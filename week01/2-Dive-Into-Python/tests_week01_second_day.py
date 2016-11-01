@@ -1,5 +1,6 @@
 import unittest
-from solution import *
+from solution import (count_substrings, sum_matrix, nan_expand, prime_factorization,
+                      group, max_consecutive)
 
 
 class Week02SecondDayTests(unittest.TestCase):
